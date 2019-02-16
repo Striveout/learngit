@@ -1,3 +1,1 @@
-Git is a version control system.
-And Git is free software.
-add wj dev.
+当前我切换到了wj_0101分支
