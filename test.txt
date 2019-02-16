@@ -4,3 +4,4 @@ int main(){
 	sum=a+b;
 	return sum;
 }
+ÎÒĞŞ¸ÄÁËtext.txt,wj_0101-dev
